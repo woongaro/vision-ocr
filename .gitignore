@@ -16,5 +16,5 @@ dist/
 
 # Docker
 .dockerignore
-docker-compose.yml
+
 # (Optional: keep docker files if you want to deploy using them)
