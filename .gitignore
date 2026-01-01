@@ -1,0 +1,20 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# macOS
+.DS_Store
+._*
+
+# Docker
+.dockerignore
+docker-compose.yml
+# (Optional: keep docker files if you want to deploy using them)
